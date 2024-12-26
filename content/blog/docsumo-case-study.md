@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Prince Sharma"
 title = "DocSumo Case Study"
 date = "2024-12-26"
 description = "A product statergy assignment I did for DocSumo"
