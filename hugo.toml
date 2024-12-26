@@ -1,5 +1,6 @@
 # Basic config
-baseURL = "https://example.com"
+baseURL = "https://prince-sharma.github.io/blog/"
+publishDir = "public"
 theme = "hugo-bearcub"
 copyright = "John Doe (CC BY 4.0)"
 defaultContentLanguage = "en"
