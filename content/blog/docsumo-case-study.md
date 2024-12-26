@@ -12,7 +12,7 @@ tags = [
 
 ## Market and Competitor analysis
 
-### Market
+### Market 
 
 IDP automates the handling of documents including data capture, document classification, data extraction, validation and Integration for companies who rely heavily on processing documents to make business decisions
 
