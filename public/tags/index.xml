@@ -28,9 +28,17 @@
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
+      <title>Emoji</title>
+      <link>https://prince-sharma.github.io/blog/tags/emoji/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>https://prince-sharma.github.io/blog/tags/emoji/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
       <title>Css</title>
       <link>https://prince-sharma.github.io/blog/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
       <guid>https://prince-sharma.github.io/blog/tags/css/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -38,7 +46,7 @@
     <item>
       <title>Html</title>
       <link>https://prince-sharma.github.io/blog/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
       <guid>https://prince-sharma.github.io/blog/tags/html/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -46,15 +54,23 @@
     <item>
       <title>Markdown</title>
       <link>https://prince-sharma.github.io/blog/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
       <guid>https://prince-sharma.github.io/blog/tags/markdown/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>https://prince-sharma.github.io/blog/tags/text/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>https://prince-sharma.github.io/blog/tags/text/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
       <title>Privacy</title>
       <link>https://prince-sharma.github.io/blog/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
       <guid>https://prince-sharma.github.io/blog/tags/privacy/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -62,24 +78,8 @@
     <item>
       <title>Shortcodes</title>
       <link>https://prince-sharma.github.io/blog/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
       <guid>https://prince-sharma.github.io/blog/tags/shortcodes/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Text</title>
-      <link>https://prince-sharma.github.io/blog/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
-      <guid>https://prince-sharma.github.io/blog/tags/text/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Emoji</title>
-      <link>https://prince-sharma.github.io/blog/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
-      <guid>https://prince-sharma.github.io/blog/tags/emoji/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
