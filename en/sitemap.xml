@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://prince-sharma.github.io/blog/</loc>
-    <lastmod>2024-12-26T15:17:06+05:30</lastmod>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://prince-sharma.github.io/blog/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
@@ -28,11 +28,36 @@
                 href="https://prince-sharma.github.io/blog/blog/"
                 />
   </url><url>
-    <loc>https://prince-sharma.github.io/blog/posts/</loc>
-    <lastmod>2024-12-26T15:17:06+05:30</lastmod>
+    <loc>https://prince-sharma.github.io/blog/blog/docsumo-case-study/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/product/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/statergy/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://prince-sharma.github.io/blog/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://prince-sharma.github.io/blog/tags/"
+                />
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/emoji/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/blog/emoji-support/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prince-sharma.github.io/blog/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
@@ -45,58 +70,39 @@
                 />
   </url><url>
     <loc>https://prince-sharma.github.io/blog/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prince-sharma.github.io/blog/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prince-sharma.github.io/blog/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prince-sharma.github.io/blog/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prince-sharma.github.io/blog/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://prince-sharma.github.io/blog/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="https://prince-sharma.github.io/blog/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://prince-sharma.github.io/blog/tags/"
-                />
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prince-sharma.github.io/blog/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://prince-sharma.github.io/blog/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://prince-sharma.github.io/blog/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://prince-sharma.github.io/blog/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://prince-sharma.github.io/blog/blog/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://prince-sharma.github.io/blog/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prince-sharma.github.io/blog/blog/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://prince-sharma.github.io/blog/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://prince-sharma.github.io/blog/blog/placeholder-text/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://prince-sharma.github.io/blog/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://prince-sharma.github.io/blog/tags/text/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/privacy/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/blog/rich-content/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/shortcodes/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url>
 </urlset>

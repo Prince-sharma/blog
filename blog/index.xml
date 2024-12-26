@@ -9,12 +9,404 @@
     <managingEditor>me@example.com (John Doe)</managingEditor>
     <webMaster>me@example.com (John Doe)</webMaster>
     <copyright>John Doe (CC BY 4.0)</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://prince-sharma.github.io/blog/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DocSumo Case Study</title>
+      <link>https://prince-sharma.github.io/blog/blog/docsumo-case-study/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>https://prince-sharma.github.io/blog/blog/docsumo-case-study/</guid>
+      <description>&lt;h1 id=&#34;docsumo-analysis-of-intelligent-document-processing-market-and-strategic-recommendations&#34;&gt;Docsumo: Analysis of Intelligent document processing market and strategic recommendations&lt;/h1&gt;&#xA;&lt;h2 id=&#34;market-and-competitor-analysis&#34;&gt;Market and Competitor analysis&lt;/h2&gt;&#xA;&lt;h3 id=&#34;market&#34;&gt;Market&lt;/h3&gt;&#xA;&lt;p&gt;IDP automates the handling of documents including data capture, document classification, data extraction, validation and Integration for companies who rely heavily on processing documents to make business decisions&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Regional banks&lt;/strong&gt; depend on processing documents for processing loans, updating customer information (beneficiary, ) and many other workflows&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Example documents: Bank Statements, Tax Returns, Financial Statements, Business Licenses, Collateral Documents&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;**Insurance Companies (**National Life Group, Employers Insurance) depend on document processing to process insurance claims and also issue insurance&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="docsumo-analysis-of-intelligent-document-processing-market-and-strategic-recommendations">Docsumo: Analysis of Intelligent document processing market and strategic recommendations</h1>
+<h2 id="market-and-competitor-analysis">Market and Competitor analysis</h2>
+<h3 id="market">Market</h3>
+<p>IDP automates the handling of documents including data capture, document classification, data extraction, validation and Integration for companies who rely heavily on processing documents to make business decisions</p>
+<ol>
+<li>
+<p><strong>Regional banks</strong> depend on processing documents for processing loans, updating customer information (beneficiary, ) and many other workflows</p>
+<ol>
+<li>Example documents: Bank Statements, Tax Returns, Financial Statements, Business Licenses, Collateral Documents</li>
+</ol>
+</li>
+<li>
+<p>**Insurance Companies (**National Life Group, Employers Insurance) depend on document processing to process insurance claims and also issue insurance</p>
+<ol>
+<li>Property deed, home inspections reports, etc</li>
+</ol>
+</li>
+<li>
+<p>**Alternative Lenders (**OnDeck Capital, Kabbage, BlueVine, Fundbox, Celtic Bank, etc) depend on processing customer bank statements, etc</p>
+</li>
+<li>
+<p><strong>Equipment Finance</strong> (TimePayment, Ascentium Capital) companies depend on document processing for evaluating loan parameters</p>
+</li>
+<li>
+<p>Healthcare Organizations, Legal Firms, Manufacturers, Government Agencies also process high volume of complex documents to run their business processes</p>
+</li>
+</ol>
+<h3 id="competitors">Competitors</h3>
+<ol>
+<li>
+<p>Ideal customer profile and their requirements (excluding large enterprise customers)</p>
+<ol>
+<li>
+<p>Let’s consider a mid-size US commercial lender (500-1,000 employees), processing 200-500 loan applications monthly with legacy software that requires significant manual data entry, leading to delays and errors</p>
+</li>
+<li>
+<p>Their focus is on reducing manual processing time to minimize lost deals, improving accuracy to cut error-related losses, enhancing customer experience with faster processing, ensuring compliance, and achieving ROI through better staff efficiency</p>
+</li>
+<li>
+<p>Hence the key factors for solution evaluation criteria include data accuracy, processing speed, document versatility, seamless integration, security compliance, cost-effectiveness, vendor reliability, and ease of training and use</p>
+</li>
+</ol>
+</li>
+<li>
+<p>Sources:</p>
+<ol>
+<li>
+<p>Competitor website, product walkthrough in case the product is accessible with signup, Youtube and publicly accessible blogs with demos of the platform</p>
+</li>
+<li>
+<p>G2 and gartner websites with recent customer reviews and feature comparisons</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><img src="https://raw.githubusercontent.com/Prince-sharma/prince-sharma/gh-pages/assets/images/competetior-study.png" alt="table of competitor study"></p>
+<p>Key differentiators and competitive advantage of DocSumo</p>
+<ol>
+<li>
+<p>Best in class UX for document processing and review</p>
+</li>
+<li>
+<p>Bridges the gap between traditional document processing tools (Abbyy, Kofax) and innovative AI-first competitors</p>
+</li>
+<li>
+<p>Combines LLMs assisted OCR with deep industry-specific ML models for financial sector</p>
+</li>
+</ol>
+<p>Strategic positioning plan to capture more of the mid-market segment</p>
+<ol>
+<li>
+<p>P0: Strengthen the document AI standing on the financial and lending business by improving accuracy for new unstructured document and integrations to seamlessly integrate into the workflow</p>
+<ol>
+<li>
+<p>Reduce the time for first document data extraction with high accuracy for any uploaded document type using LLM assisted document processing, prebuilt workflows for major use cases, etc</p>
+</li>
+<li>
+<p>Build native integration for customers to easily integrate into any workflows, allowing input and export of data into various platforms. Integrate systems used by financial and lending companies to allows support in the end to end lifecycle of document processing</p>
+</li>
+</ol>
+</li>
+<li>
+<p>P1: Build robust workflow builder with semantic understanding and vertical specific solutions to move up the value chain</p>
+<ol>
+<li>
+<p>Eg. Fraud detection for the uploaded documents</p>
+<ol>
+<li>Since the financial company is dependent on Docsumo to get the data extracted from the customer document, flagging fraudulent document can be competitive advantage</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>
+<p>P2: Expand into other similar sectors and go deep based on adoption and customer feedback</p>
+</li>
+</ol>
+<h3 id="what-would-your-3-month-6-month-and-12-month-product-vision-look-like">What would your 3-month, 6-month, and 12-month product vision look like?</h3>
+<p><strong>Features / capabilities we should prioritize to align with Docsumo&rsquo;s mission</strong></p>
+<ol>
+<li>
+<p>Traditional OCR systems primarily rely on pattern recognition and template matching to convert images of text into machine-readable formats, LLMs improve upon these shortcomings by leveraging their ability to understand context and semantics. Unlike traditional OCR, LLMs interpret text meaning, fixing errors and ensuring better accuracy</p>
+</li>
+<li>
+<p>LLM-assisted OCR has greatly improved the accuracy of processing unstructured documents, even with minimal training. However, the market response varies:</p>
+<ol>
+<li>
+<p><strong>Established players</strong> like Abby and Kofax have strong enterprise business workflow integrations but are slow to adopt LLM-assisted OCR</p>
+</li>
+<li>
+<p><strong>Newer competitors</strong> like Hyperscience and Instabase focus on LLM-first products but struggle with product depth required for enterprises and high-scale document processing (source: <a href="https://www.g2.com/products/hyperscience/reviews#reviews">G2 reviews</a>)</p>
+</li>
+</ol>
+</li>
+<li>
+<p>LLM tools by themselves cannot solve enterprise use cases. Docsumo holds a unique competitive advantage by balancing both extremes. It offers highly accurate models for document classification and data extraction, tailored for financial services and commercial lending. Additionally, it provides seamless enterprise workflow integration and use-case-specific product optimizations for various document types</p>
+</li>
+</ol>
+<p><img src="https://raw.githubusercontent.com/Prince-sharma/prince-sharma/gh-pages/assets/images/roadmap-3-6-12-months.png" alt="Roadmap Table"></p>
+<h3 id="which-features-or-capabilities-would-you-prioritize-to-align-with-docsumos-mission">Which features or capabilities would you prioritize to align with Docsumo&rsquo;s mission?</h3>
+<p>Milestones for all features described below:</p>
+<ol>
+<li>
+<p>Implement a beta version in solutions mode and use existing documents to confirm accuracy improvements</p>
+</li>
+<li>
+<p>Data analysis based on current customers data and cohorts ton  decide going deep into the feature based on feedback</p>
+</li>
+<li>
+<p>Work with friendly customer to get feedback </p>
+</li>
+</ol>
+<p><img src="https://raw.githubusercontent.com/Prince-sharma/prince-sharma/gh-pages/assets/images/features-metrics.png" alt="Features Metrics Table"></p>
+<h3 id="how-will-you-balance-short-term-wins-with-long-term-product-scalability">How will you balance short-term wins with long-term product scalability?</h3>
+<ol>
+<li>
+<p>Clearly define success criteria and milestones for each short-term feature to measure progress effectively</p>
+</li>
+<li>
+<p>Label early-stage features as &ldquo;Beta&rdquo; to set clear expectations with customers </p>
+</li>
+<li>
+<p>Continuously invest in platform stability, ensuring sophisticated AI &amp; ML at scale remains a competitive advantage</p>
+</li>
+<li>
+<p>Establish long-term scalability targets linked to enterprise customer onboarding and allocate a dedicated swimlane for scalability improvements in every release</p>
+</li>
+</ol>
+<h3 id="which-specific-use-cases-will-you-prioritize-eg-customer-onboarding-claims-processing-to-demonstrate-immediate-value">Which specific use cases will you prioritize (e.g., customer onboarding, claims processing) to demonstrate immediate value?</h3>
+<ol>
+<li>
+<p>Ideal Customer Profile for DocSumo: Mid-market financial services, commercial lending, and B2B technology companies who rely heavily on document-intensive processes, manual data entry, and challenges with scalability and accuracy in data extraction and using legacy systems or semi-automated workflows seeking AI-based solutions to modernize operations</p>
+</li>
+<li>
+<p>Prioritized Use Cases to Demonstrate Immediate Value</p>
+<ol>
+<li>Oneshot document processing for existing document work flows to reduce the dependency of uploading 10 documents and minimise the time to set up workflow for new customers</li>
+</ol>
+</li>
+</ol>
+<h3 id="what-success-metrics-would-you-track-to-gauge-the-impact-of-newly-launched-features">What success metrics would you track to gauge the impact of newly launched features?</h3>
+<p><em>Included in the Roadmap section on each feature level</em></p>
+<h3 id="how-would-you-drive-feature-adoption-among-customers">How would you drive feature adoption among customers?</h3>
+<ol>
+<li>
+<p>Targeted customer education</p>
+<ol>
+<li>
+<p>Release notes</p>
+</li>
+<li>
+<p>Guides on how to use the feature</p>
+</li>
+<li>
+<p>Webinars and blog posts with Industry specific examples for the new features</p>
+</li>
+<li>
+<p>In product nudges</p>
+</li>
+</ol>
+</li>
+<li>
+<p>Onboarding strategies</p>
+<ol>
+<li>New feature walkthrough / demo for existing active customers</li>
+</ol>
+</li>
+</ol>
+<h3 id="how-would-you-approach-the-go-to-market-strategy-for-new-integrations">How would you approach the go-to-market strategy for new integrations?</h3>
+<p>The integrations are for Google Drive, Box, Dropbox, S3, SharePoint, and OneDrive for imports; Google Sheets and Smartsheet for exports.</p>
+<ol>
+<li>
+<p>Product led</p>
+<ol>
+<li>
+<p>In-product Nudges, predefined workflows with specific use case examples that use the integrations for export and import of the data</p>
+</li>
+<li>
+<p>Add import and export options for the current document types</p>
+</li>
+</ol>
+</li>
+<li>
+<p>Use case driven marketing</p>
+<ol>
+<li>
+<p>Create blogs, guides, release notes, etc for specific use cases targeted to tech financial companies</p>
+</li>
+<li>
+<p>Create SEO-optimized landing pages for each integration, highlighting specific use cases (e.g., &ldquo;Import financial documents from Dropbox for instant analysis&rdquo;)</p>
+</li>
+<li>
+<p>Run targeted campaigns (paid ads, email marketing) emphasizing how these integrations solve customer pain points</p>
+</li>
+<li>
+<p>Conduct webinars on training of various use cases for financial sectors like automated loan processing, income verifications, etc</p>
+</li>
+</ol>
+</li>
+<li>
+<p>Partner led</p>
+<ol>
+<li>
+<p>Joint marketing and GTM for larger platform native integrations like salesforce, Pega and other </p>
+</li>
+<li>
+<p>Ensure integrations are published in respective app marketplaces (e.g., Google Workspace Marketplace, Microsoft AppSource, Dropbox Extensions) - low priority </p>
+</li>
+</ol>
+</li>
+</ol>
+<h3 id="how-would-you-integrate-user-feedback-into-the-product-lifecycle-specifically-for-the-new-integrations">How would you integrate user feedback into the product lifecycle, specifically for the new integrations?</h3>
+<ol>
+<li>
+<p>Discovery Phase:</p>
+<ol>
+<li>
+<p>Talk to customers to identify integration needs and expected workflows, evaluate complexity to implement, reach, expected impact on the north star metric</p>
+</li>
+<li>
+<p>Analyze competitor integrations for common user pain points and opportunities</p>
+</li>
+</ol>
+</li>
+<li>
+<p>Design Phase:</p>
+<ol>
+<li>
+<p>Share mockups or prototypes with beta users for early feedback on usability</p>
+</li>
+<li>
+<p>To Incorporate feedback iteratively into designs before development</p>
+</li>
+</ol>
+</li>
+<li>
+<p>Development Phase:</p>
+<ol>
+<li>
+<p>Use feature flags to deploy integrations incrementally to a small user base</p>
+</li>
+<li>
+<p>Include events to track usage across funnel and error patterns during internal testing</p>
+</li>
+</ol>
+</li>
+<li>
+<p>Launch Phase:</p>
+<ol>
+<li>
+<p>Run a beta program with power users to validate functionality and gather real-world insights</p>
+</li>
+<li>
+<p>Enable surveys to collect immediate post-launch feedback, when a user adds their first x integration</p>
+</li>
+</ol>
+</li>
+</ol>
+<h3 id="what-mechanisms-will-you-use-to-gather-feedback-and-iterate-on-the-feature-post-launch">What mechanisms will you use to gather feedback and iterate on the feature post-launch?</h3>
+<ol>
+<li>
+<p>Contextual surveys at key touchpoints (e.g., after a file import/export)</p>
+</li>
+<li>
+<p>Persistent &ldquo;Submit Feedback&rdquo; button near integration features / at the end of setting up a workflow</p>
+</li>
+<li>
+<p>Monitor analytics (adoption rate, success rate, error rate) alongside user feedback</p>
+</li>
+<li>
+<p>Use feedback loops (release notes, emails) to inform users of updates based on their input</p>
+</li>
+<li>
+<p>Actively monitor feedback via support channels for any issues, enhancements, etc</p>
+</li>
+</ol>
+<h2 id="references">References</h2>
+<ol>
+<li>
+<p>Publically available demo for the platforms on their website, youtube, etc</p>
+</li>
+<li>
+<p>G2 and gartner to understand how customers evaluate different products</p>
+</li>
+<li>
+<p>Example customer case study: <a href="https://instabase.com/cases/how-axa-increases-capacity-of-underwriters-with-instabase/">https://instabase.com/cases/how-axa-increases-capacity-of-underwriters-with-instabase/</a> </p>
+</li>
+<li>
+<p>OCR comparison (pre-LLM) 3 years ago: <a href="https://www.youtube.com/watch?v=5sMVA9GHziU">Link</a> comparing a few tools</p>
+</li>
+<li>
+<p>LLM assisted OCR models have vastly improved the accuracy of image OCR [<a href="https://github.com/Dicklesworthstone/llm_aided_ocr?tab=readme-ov-file">Github</a>] [<a href="https://news.ycombinator.com/item?id=41203306">hackernews</a>]</p>
+</li>
+<li>
+<p>Different IDP companies in the market: <a href="https://app.meticulate.ai/company_search/f9724bbc-d50b-4a99-90a1-7b041192fbd4">https://app.meticulate.ai/company_search/f9724bbc-d50b-4a99-90a1-7b041192fbd4</a> </p>
+</li>
+<li>
+<p>Financial sector document AI companies: <a href="https://app.meticulate.ai/company_search/85119b29-d2be-4067-8583-a7a8359b5811">https://app.meticulate.ai/company_search/85119b29-d2be-4067-8583-a7a8359b5811</a> </p>
+</li>
+</ol>
+<h2 id="assumptions-and-appendix">Assumptions and appendix</h2>
+<ol>
+<li>
+<p>Competitor analysis is done keeping mid market customers in mind where we have different team who can try the solution and take decision independently</p>
+<ol>
+<li>Enterprises can have a vastly different evaluation criteria where they issue tenders and solution providers then submit proposal, etc and have much larger closing cycles</li>
+</ol>
+</li>
+<li>
+<p>I have not talked to actual customers and hence would want to validate hypothesis presented in this doc and get more insights into their needs and end to end workflows before implementing</p>
+</li>
+<li>
+<p>Risks / challenges of using LLMs</p>
+<ol>
+<li>When using a hybrid LLM and OCR systems, Issues such as error diagnosis in hybrid systems—determining whether an error arose from the OCR or the LLM—pose significant hurdles</li>
+</ol>
+</li>
+</ol>
+<h3 id="other-strategic-opportunities-emerging-due-to-llms">Other strategic opportunities emerging due to LLMs</h3>
+<ol>
+<li>
+<p> Ability of LLMs to understand context and semantics for a given document file of any format opens up new use cases and markets. One of the key advantages of LLMs is their capability to interpret the meaning behind the text they process. LLMs can discern context and correct typographical errors based on surrounding information</p>
+</li>
+<li>
+<p>Vertical solutions lending companies, to add rules and business context for their process approvals into their IDP systems, suggest decision in addition to the correct texts</p>
+</li>
+<li>
+<p>Other companies building vertical end to end process management softwares</p>
+<ol>
+<li>
+<p><a href="https://www.extend.app/">Extend</a>: AI Agents for Unstructured Data</p>
+</li>
+<li>
+<p><a href="https://www.commodityai.io/">CommodityAI</a>: AI-Powered Shipment Management for Commodity Traders</p>
+</li>
+<li>
+<p><a href="https://www.lucite.ai/">Lucite</a>: Automating workflows for insurance, real estate, and finance.</p>
+</li>
+<li>
+<p><a href="https://www.proprise.io/#features">PropRise</a>: Automating commercial real estate data collection</p>
+</li>
+</ol>
+</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://prince-sharma.github.io/blog/blog/emoji-support/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>https://prince-sharma.github.io/blog/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
+<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<!-- raw HTML omitted -->
+<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
+<hr>
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
+
+
+
+
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="ln">1</span><span class="cl">.emoji {
+</span></span><span class="line"><span class="ln">2</span><span class="cl">  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+</span></span><span class="line"><span class="ln">3</span><span class="cl">}</span></span></code></pre></div>]]></content:encoded>
+    </item>
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://prince-sharma.github.io/blog/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
       <guid>https://prince-sharma.github.io/blog/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
@@ -166,9 +558,72 @@
 </div>]]></content:encoded>
     </item>
     <item>
+      <title>Math Typesetting</title>
+      <link>https://prince-sharma.github.io/blog/blog/math-typesetting/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>https://prince-sharma.github.io/blog/blog/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:</li>
+</ul>
+
+
+
+
+
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl"><span class="o">{{</span> <span class="k">if</span> or .Params.math .Site.Params.math <span class="o">}}</span>
+</span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="o">{{</span> partial <span class="s2">&#34;math.html&#34;</span> . <span class="o">}}</span>
+</span></span><span class="line"><span class="ln">3</span><span class="cl"><span class="o">{{</span> end <span class="o">}}</span></span></span></code></pre></div><ul>
+<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
+<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files</li>
+</ul>
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a></p>
+
+<h3 id="examples">Examples</h3>
+
+<p>Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://prince-sharma.github.io/blog/blog/placeholder-text/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>https://prince-sharma.github.io/blog/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>
+<p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
+<ol>
+<li>Exierant elisi ambit vivere dedere</li>
+<li>Duce pollice</li>
+<li>Eris modo</li>
+<li>Spargitque ferrea quos palude</li>
+</ol>
+<p>Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.</p>
+<ol>
+<li>Comas hunc haec pietate fetum procerum dixit</li>
+<li>Post torum vates letum Tiresia</li>
+<li>Flumen querellas</li>
+<li>Arcanaque montibus omnes</li>
+<li>Quidem et</li>
+</ol>
+<h1 id="vagus-elidunt">Vagus elidunt</h1>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<p><a href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon">The Van de Graaf Canon</a></p>
+<h2 id="mane-refeci-capiebant-unda-mulcebat">Mane refeci capiebant unda mulcebat</h2>
+<p>Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. <strong>Faces illo pepulere</strong> tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.</p>
+<p>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.</p>
+<p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel <strong>mitis temploque</strong> vocatus, inque alis, <em>oculos nomen</em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides <strong>parte</strong>.</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Rich Content</title>
       <link>https://prince-sharma.github.io/blog/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
       <guid>https://prince-sharma.github.io/blog/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
@@ -221,90 +676,6 @@
             </div>
           </a>
         </div>]]></content:encoded>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://prince-sharma.github.io/blog/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
-      <guid>https://prince-sharma.github.io/blog/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>
-<p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
-<ol>
-<li>Exierant elisi ambit vivere dedere</li>
-<li>Duce pollice</li>
-<li>Eris modo</li>
-<li>Spargitque ferrea quos palude</li>
-</ol>
-<p>Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.</p>
-<ol>
-<li>Comas hunc haec pietate fetum procerum dixit</li>
-<li>Post torum vates letum Tiresia</li>
-<li>Flumen querellas</li>
-<li>Arcanaque montibus omnes</li>
-<li>Quidem et</li>
-</ol>
-<h1 id="vagus-elidunt">Vagus elidunt</h1>
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
-<p><a href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon">The Van de Graaf Canon</a></p>
-<h2 id="mane-refeci-capiebant-unda-mulcebat">Mane refeci capiebant unda mulcebat</h2>
-<p>Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. <strong>Faces illo pepulere</strong> tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.</p>
-<p>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.</p>
-<p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel <strong>mitis temploque</strong> vocatus, inque alis, <em>oculos nomen</em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides <strong>parte</strong>.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://prince-sharma.github.io/blog/blog/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
-      <guid>https://prince-sharma.github.io/blog/blog/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
-<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
-<ul>
-<li>Create a partial under <code>/layouts/partials/math.html</code></li>
-<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
-<li>Include the partial in your templates like so:</li>
-</ul>
-
-
-
-
-
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl"><span class="o">{{</span> <span class="k">if</span> or .Params.math .Site.Params.math <span class="o">}}</span>
-</span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="o">{{</span> partial <span class="s2">&#34;math.html&#34;</span> . <span class="o">}}</span>
-</span></span><span class="line"><span class="ln">3</span><span class="cl"><span class="o">{{</span> end <span class="o">}}</span></span></span></code></pre></div><ul>
-<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
-<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files</li>
-</ul>
-<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a></p>
-
-<h3 id="examples">Examples</h3>
-
-<p>Block math:
-$$
-\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
-$$</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>https://prince-sharma.github.io/blog/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
-      <guid>https://prince-sharma.github.io/blog/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
-<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
-<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
-<!-- raw HTML omitted -->
-<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
-<hr>
-<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
-
-
-
-
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="ln">1</span><span class="cl">.emoji {
-</span></span><span class="line"><span class="ln">2</span><span class="cl">  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-</span></span><span class="line"><span class="ln">3</span><span class="cl">}</span></span></code></pre></div>]]></content:encoded>
     </item>
   </channel>
 </rss>
