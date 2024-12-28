@@ -4,32 +4,18 @@ menu: "main"
 weight: 1
 ---
 
-# ᕦʕ •ᴥ•ʔᕤ Bear Cub
+# ᕦʕ •ᴥ•ʔᕤ Prince Sharma
 
-Today's websites are bloated, slow, and full of scripts, ads, and trackers. This
-became so commonplace that we lost all sense of perspective, to the point that
-we now think multi-megabyte webpages are normal.
+Hey there, this is Prince. I like Ghibli movies, teking. A quote I really like from the lord of the rings.
 
-> The internet has become a bloated mess. Huge JavaScript libraries, countless
-> client-side queries and overly complex frontend frameworks are par for the
-> course these days.
+> “Frodo: I wish the Ring had never come to me. I wish none of this had happened.
+> Gandalf: So do all who live to see such times, but that is not for them to decide.
+> All we have to decide is what to do with the time that is given to us.”
 >
-> --- [Kev Quirk](https://512kb.club/)
+> --- [Lord Of the Rings](https://www.goodreads.com/quotes/1046665-frodo-i-wish-the-ring-had-never-come-to-me)
 
-Let's change this, one website at a time! **Bear Cub** is a
-[Hugo](https://gohugo.io/) theme based on [Hugo
-Bear](https://github.com/janraasch/hugo-bearblog/) that takes care of speed and
-optimization, so you can focus on writing good content.
+I'm currently working on building: 
+1. **Wingman** is a AI companion for Indian who you can talk to on WhatsApp. Try by texting the number here: http://wa.me/919643516428?text=hi 
+2. **Firsco Post Purchase** is the fastest way to enable post-purchase notifications on your Shopify store. Currently working on building the MVP for this.
 
-It is free, multilingual, optimized for search engines, no-nonsense, responsive,
-light, and fast. Really fast.
-
-When compared to its predecessor, **Bear Cub** has a few
-[privacy](https://themarkup.org/blacklight?url=clente.github.io/hugo-bearcub/)
-and
-[accessibility](https://pagespeed.web.dev/report?url=https%3A%2F%2Fclente.github.io%2Fhugo-bearcub%2F)
-upgrades. It's also compatible with modern
-[security](https://github.com/clente/hugo-bearcub#secure) standards, so your
-users don't have to worry about browsing your website.
-
-Made with 💟 by [Caio lente](https://lente.dev/en).
+Made with 💟 by [Prince Sharma](http://linkedin.com/in/astronautprince/).

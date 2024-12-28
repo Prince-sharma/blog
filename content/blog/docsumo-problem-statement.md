@@ -1,7 +1,7 @@
 +++
 author = "Prince Sharma"
 title = "DocSumo PM Case Study - Problem statement"
-date = "2024-12-28"
+date = "2024-12-26"
 description = "A product statergy assignment I did for DocSumo"
 tags = [
     "product",

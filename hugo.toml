@@ -30,17 +30,10 @@ enableRobotsTXT = true
     contentDir = "content"
     [languages.en.params]
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
-  [languages.pt]
-    title = "Bear Cub"
-    languageName = "pt-BR 🇧🇷"
-    LanguageCode = "pt-BR"
-    contentDir = "content.pt"
-    [languages.pt.params]
-      madeWith = "Feito com [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 [params]
   # The description of your website
-  description = "Bear Cub Demo"
+  description = "A personal blog for Prince Sharma"
 
   # The path to your favicon
   favicon = "images/favicon.png"
@@ -53,7 +46,7 @@ enableRobotsTXT = true
 
   # This title is used as the site_name on the Hugo's internal opengraph
   # structured data template
-  title = "Bear Cub"
+  title = "Prince Sharma"
 
   # Dates are displayed following the format below. For more information about
   # formatting, see https://gohugo.io/functions/format/
