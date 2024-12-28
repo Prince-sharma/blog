@@ -2,7 +2,7 @@
 baseURL = "https://prince-sharma.github.io/blog/"
 publishDir = "public"
 theme = "hugo-bearcub"
-copyright = "John Doe (CC BY 4.0)"
+copyright = "Prince Sharma (CC BY 4.0)"
 defaultContentLanguage = "en"
 
 # Generate a nice robots.txt for SEO
@@ -24,7 +24,7 @@ enableRobotsTXT = true
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "Bear Cub"
+    title = "Prince Sharma"
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"
