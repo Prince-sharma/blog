@@ -4,7 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-# ᕦʕ •ᴥ•ʔᕤ Prince Sharma
+# Prince Sharma
 
 Hey there, this is Prince. I like Ghibli movies, teking. A quote I really like from the lord of the rings.
 
