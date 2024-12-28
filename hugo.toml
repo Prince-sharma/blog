@@ -24,7 +24,7 @@ enableRobotsTXT = true
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "Prince Sharma"
+    title = "Personal Blog"
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"
