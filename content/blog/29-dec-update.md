@@ -12,7 +12,7 @@ tags = [
 
 Starting a weekly update blog where I'll share what I worked on the past week, any progress made toward my goal or any random stuff I did during the week. 
 
-# 1. Built the first version of AI girlfreind
+## 1. Built the first version of AI girlfreind
 
 You can try the demo here: http://wa.me/919643516428?text=hi
 
@@ -23,7 +23,7 @@ You can try the demo here: http://wa.me/919643516428?text=hi
 ![bot chat](https://raw.githubusercontent.com/Prince-sharma/blog/main/data/images/bot-chat.jpeg)
 
 
-# 2. Started with tennis lessons, it was a fun day 1
+## 2. Started with tennis lessons, it was a fun day 1
 
 ![bot onboarding 1](https://raw.githubusercontent.com/Prince-sharma/blog/main/data/images/tennis.jpeg)
 
@@ -35,7 +35,7 @@ Some things I'm planning on doing this week
 4. Update the Resume with all the latest stuff
 
 
-# 3. Started watching onepiece, some screenshots / quotes i liked below
+## 3. Started watching onepiece, some screenshots / quotes i liked below
 
 ![one piece](https://raw.githubusercontent.com/Prince-sharma/blog/main/data/images/onepiece/o1.png)
 
@@ -58,4 +58,4 @@ Some things I'm planning on doing this week
 ![one piece](https://raw.githubusercontent.com/Prince-sharma/blog/main/data/images/onepiece/o10.png)
 
 
-## See you Space Cowboy ...
+### See you Space Cowboy ...
