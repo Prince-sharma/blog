@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://prince-sharma.github.io/blog/en/sitemap.xml</loc>
-    
-      <lastmod>2024-12-28T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://prince-sharma.github.io/blog/pt/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://prince-sharma.github.io/blog/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/blog/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/blog/29-dec-update/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/life/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/update/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/weekly/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/blog/new-year-2025/</loc>
+    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/blog/docsumo-case-study/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/product/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/tags/statergy/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/blog/docsumo-problem-statement/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prince-sharma.github.io/blog/categories/</loc>
+  </url>
+</urlset>
