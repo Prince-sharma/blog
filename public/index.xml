@@ -1,157 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bear Cub</title>
+    <title>Personal Blog</title>
     <link>https://prince-sharma.github.io/blog/</link>
-    <description>Recent content on Bear Cub</description>
+    <description>Recent content on Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>me@example.com (John Doe)</managingEditor>
     <webMaster>me@example.com (John Doe)</webMaster>
-    <copyright>John Doe (CC BY 4.0)</copyright>
-    <lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <copyright>Prince Sharma (CC BY 4.0)</copyright>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://prince-sharma.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DocSumo PM Case Study - Problem statement</title>
-      <link>https://prince-sharma.github.io/blog/blog/docsumo-problem-statement/</link>
-      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
-      <guid>https://prince-sharma.github.io/blog/blog/docsumo-problem-statement/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I spent time on and did an PM assignment when randomly job hunting, so have to publish it somewhere i guess. This post is the problem statment for a PM assignment shared by DocSumo. You can find the solution that i submitted here: &lt;a href=&#34;https://prince-sharma.github.io/blog/blog/docsumo-case-study/&#34;&gt;submitted solution&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Docsumo is a Document AI software that helps enterprises make fast &amp;amp; accurate decisions from unstructured documents.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;It helps enterprises automate key processes such as customer onboarding, income verification, claims processing by digitizing PDF files, images &amp;amp; excels docs such as bank statements, invoices, financial statements etc. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Docsumo competes with 3-decade old companies such as &lt;a href=&#34;https://www.abbyy.com/&#34;&gt;Abbyy&lt;/a&gt;, &lt;a href=&#34;https://www.kofax.com/&#34;&gt;Kofax&lt;/a&gt; and new age players such &lt;a href=&#34;https://cloud.google.com/document-ai&#34;&gt;Google Document AI&lt;/a&gt;, &lt;a href=&#34;https://instabase.com/&#34;&gt;Instabase&lt;/a&gt;, &lt;a href=&#34;https://hyperscience.com/&#34;&gt;Hyperscience&lt;/a&gt;, &lt;a href=&#34;https://hypatos.ai/&#34;&gt;Hypatos&lt;/a&gt; and &lt;a href=&#34;https://rossum.ai/&#34;&gt;Rossum&lt;/a&gt;, Ocrolus. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ol start=&#34;4&#34;&gt;&#xA;&lt;li&gt;Docsumo targets mid market ($10mn-$1bn revenue, 100+ employees) commercial lenders, financial services &amp;amp; technology companies in the USA to automate different processes. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ol start=&#34;5&#34;&gt;&#xA;&lt;li&gt;As a product manager, you will be responsible for creating the product roadmap and executing the plan. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ol start=&#34;6&#34;&gt;&#xA;&lt;li&gt;Essentially, you will be handling the entire product cycle from identifying the customer needs and the larger business objectives that a capability or feature will fulfill, articulating what success looks on the Product Requirement Document, planning epics and sprints with the engineering team to launching capabilities and getting them used by our customers. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;\&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<blockquote>
-<p>I spent time on and did an PM assignment when randomly job hunting, so have to publish it somewhere i guess. This post is the problem statment for a PM assignment shared by DocSumo. You can find the solution that i submitted here: <a href="https://prince-sharma.github.io/blog/blog/docsumo-case-study/">submitted solution</a></p>
-</blockquote>
-<p><strong>Background</strong></p>
+      <title>30th Dec Update</title>
+      <link>https://prince-sharma.github.io/blog/blog/29-dec-update/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>https://prince-sharma.github.io/blog/blog/29-dec-update/</guid>
+      <description>&lt;p&gt;Starting a weekly update blog where I&amp;rsquo;ll share what I worked on the past week, any progress made toward my goal or any random stuff I did during the week.&lt;/p&gt;&#xA;&lt;h1 id=&#34;1-built-the-first-version-of-ai-girlfreind&#34;&gt;1. Built the first version of AI girlfreind&lt;/h1&gt;&#xA;&lt;p&gt;You can try the demo here: &lt;a href=&#34;http://wa.me/919643516428?text=hi&#34;&gt;http://wa.me/919643516428?text=hi&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./../../data/images/bot-1.jpeg&#34; alt=&#34;bot onboarding 1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./../../data/images/bot-2.jpeg&#34; alt=&#34;bot onboarding 2&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./../../data/images/bot-chat.jpeg&#34; alt=&#34;bot chat&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;2-started-with-tennis-lessons-it-was-a-fun-day-1&#34;&gt;2. Started with tennis lessons, it was a fun day 1&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./../../data/images/tennis.jpeg&#34; alt=&#34;bot onboarding 1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Some things I&amp;rsquo;m planning on doing this week&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Starting a weekly update blog where I&rsquo;ll share what I worked on the past week, any progress made toward my goal or any random stuff I did during the week.</p>
+<h1 id="1-built-the-first-version-of-ai-girlfreind">1. Built the first version of AI girlfreind</h1>
+<p>You can try the demo here: <a href="http://wa.me/919643516428?text=hi">http://wa.me/919643516428?text=hi</a></p>
+<p><img src="./../../data/images/bot-1.jpeg" alt="bot onboarding 1"></p>
+<p><img src="./../../data/images/bot-2.jpeg" alt="bot onboarding 2"></p>
+<p><img src="./../../data/images/bot-chat.jpeg" alt="bot chat"></p>
+<h1 id="2-started-with-tennis-lessons-it-was-a-fun-day-1">2. Started with tennis lessons, it was a fun day 1</h1>
+<p><img src="./../../data/images/tennis.jpeg" alt="bot onboarding 1"></p>
+<p>Some things I&rsquo;m planning on doing this week</p>
 <ol>
-<li>Docsumo is a Document AI software that helps enterprises make fast &amp; accurate decisions from unstructured documents.</li>
+<li>Make some progrees on Frisco - Post Purchase</li>
+<li>Read more on what problems VCs are looking to solve through AI (for eg, some VCs frequently publish call for ideas)</li>
+<li>Prepare a list of potential ideas, evaluation on which makes sense to do</li>
+<li>Update the Resume with all the latest stuff</li>
 </ol>
-<ol start="2">
-<li>It helps enterprises automate key processes such as customer onboarding, income verification, claims processing by digitizing PDF files, images &amp; excels docs such as bank statements, invoices, financial statements etc. </li>
-</ol>
-<ol start="3">
-<li>Docsumo competes with 3-decade old companies such as <a href="https://www.abbyy.com/">Abbyy</a>, <a href="https://www.kofax.com/">Kofax</a> and new age players such <a href="https://cloud.google.com/document-ai">Google Document AI</a>, <a href="https://instabase.com/">Instabase</a>, <a href="https://hyperscience.com/">Hyperscience</a>, <a href="https://hypatos.ai/">Hypatos</a> and <a href="https://rossum.ai/">Rossum</a>, Ocrolus. </li>
-</ol>
-<ol start="4">
-<li>Docsumo targets mid market ($10mn-$1bn revenue, 100+ employees) commercial lenders, financial services &amp; technology companies in the USA to automate different processes. </li>
-</ol>
-<ol start="5">
-<li>As a product manager, you will be responsible for creating the product roadmap and executing the plan. </li>
-</ol>
-<ol start="6">
-<li>Essentially, you will be handling the entire product cycle from identifying the customer needs and the larger business objectives that a capability or feature will fulfill, articulating what success looks on the Product Requirement Document, planning epics and sprints with the engineering team to launching capabilities and getting them used by our customers. </li>
-</ol>
-<p>\</p>
-<p><strong>Problem Statement:</strong></p>
-<p>Make a presentation to the founders of Docsumo on your 30, 60, 90, and 180-day plan, focusing on the following areas:</p>
-<ol>
-<li>
-<p>Market Research &amp; Competitive Analysis</p>
-</li>
-<li>
-<p>Product Vision &amp; Roadmap (3 months, 6 months, and 12 months)</p>
-</li>
-<li>
-<p>Customer Segmentation &amp; Use Cases</p>
-</li>
-<li>
-<p>Success Metrics &amp; Adoption Strategy</p>
-</li>
-<li>
-<p>Go-to-Market Strategy for a New Capability: Integrations</p>
-</li>
-<li>
-<p>User Research &amp; Feedback Loop for new capability: Integrations</p>
-</li>
-</ol>
-<p>Your goal is to present a comprehensive strategy to drive product differentiation, adoption, and growth.</p>
-<h3 id="case-study-tasks"><strong>Case Study Tasks:</strong></h3>
-<p>Use the structure below to complete your case study submission:</p>
-<hr>
-<p><strong>1. Market Research &amp; Competitive Analysis:</strong></p>
-<ul>
-<li>
-<p><strong>Question:</strong> How would you analyze the competitive landscape for Docsumo, given the established players and new-age competitors (Abbyy, Kofax, Google Document AI, etc.)?</p>
-<ul>
-<li>
-<p>Identify the key differentiators for Docsumo.</p>
-</li>
-<li>
-<p>Propose a strategic positioning plan to capture more of the mid-market segment.</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>**Context from Product Thesis:**Docsumo excels in document classification and data extraction from complex unstructured documents with a higher accuracy rate than traditional OCR tools. Additionally, Docsumo’s ability to process diverse document types at scale is a competitive advantage, especially in areas like financial services and commercial lending​</p>
-<hr>
-<p><strong>2. Product Vision &amp; Roadmap (3, 6, and 12 months):</strong></p>
-<ul>
-<li>
-<p><strong>Question:</strong> What would your 3-month, 6-month, and 12-month product vision look like?</p>
-<ul>
-<li>
-<p>Which features or capabilities would you prioritize to align with Docsumo&rsquo;s mission?</p>
-</li>
-<li>
-<p>How will you balance short-term wins with long-term product scalability?</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>**Context from Product Thesis:**Docsumo’s roadmap needs to focus on enhancing its AI models for increased accuracy and expanding integrations to become a core part of enterprise workflows. The product vision should be centered on creating a seamless customer experience, addressing current pain points like manual processes, and driving automation​.</p>
-<hr>
-<p><strong>3. Customer Segmentation &amp; Use Cases:</strong></p>
-<ul>
-<li>
-<p><strong>Question:</strong> How would you define the ideal customer profile for Docsumo?</p>
-<ul>
-<li>Which specific use cases will you prioritize (e.g., customer onboarding, claims processing) to demonstrate immediate value?</li>
-</ul>
-</li>
-</ul>
-<p>**Context from Product Thesis:**Mid-market financial services, commercial lending and B2B technology companies are a primary target, given their reliance on document-heavy processes. The use cases around automating manual data entry from bank statements, payment processing, and tax documents are key areas where Docsumo can demonstrate significant ROI</p>
-<hr>
-<p><strong>4. Success Metrics &amp; Adoption Strategy:</strong></p>
-<ul>
-<li>
-<p><strong>Question:</strong> What success metrics would you track to gauge the impact of newly launched features?</p>
-<ul>
-<li>How would you drive feature adoption among customers?</li>
-</ul>
-</li>
-</ul>
-<p>**Context from Product Thesis:**The success of new features should be measured through user engagement (e.g., feature usage, reduction in manual errors, time savings) and business outcomes (e.g., increased customer retention, decreased churn). Adoption should be driven through targeted customer education and onboarding strategies​.</p>
-<hr>
-<p><strong>5. Go-to-Market Strategy for New Integrations:</strong></p>
-<ul>
-<li>
-<p><strong>Question:</strong> How would you approach the go-to-market strategy for new integrations?</p>
-<ul>
-<li>The integrations are for Google Drive, Box, Dropbox, S3, SharePoint, and OneDrive for imports; Google Sheets and Smartsheet for exports.</li>
-</ul>
-</li>
-</ul>
-<p>**Context from Product Thesis:**Docsumo currently allows document uploads via API, email forwarding, and Zapier, but a broader strategy is needed to provide native integrations. The addition of these key integrations will streamline customer workflows, allowing them to manage the entire process within Docsumo​. Your strategy should include clear communication on the value these integrations provide and a launch plan targeting mid-market customers who rely on cloud-based document storage solutions.</p>
-<hr>
-<p><strong>6. User Research &amp; Feedback Loop for Integrations:</strong></p>
-<ul>
-<li>
-<p><strong>Question:</strong> How would you integrate user feedback into the product lifecycle, specifically for the new integrations?</p>
-<ul>
-<li>What mechanisms will you use to gather feedback and iterate on the feature post-launch?</li>
-</ul>
-</li>
-</ul>
-<p>**Context from Product Thesis:**Establishing a continuous feedback loop is crucial. You can leverage in-app surveys, interviews, and analytics to understand how customers interact with these integrations. Iteration should focus on ensuring seamless document flow from third-party storage solutions into Docsumo and vice versa​.</p>
-<hr>
-<p><strong>Resources:</strong></p>
-<ul>
-<li><strong>Product Access:</strong> Check out the product at<a href="https://app.docsumo.com/"> app.docsumo.com</a> (Use the email format: hello+pm_assignment_{{your_first_name}}@docsumo.com for signup).</li>
-</ul>
+<h1 id="3-started-watching-onepiece-some-screenshots--quotes-i-liked-below">3. Started watching onepiece, some screenshots / quotes i liked below</h1>
+<p><img src="./../../data/images/onepiece/o1.png" alt="one piece"></p>
+<p><img src="./../../data/images/onepiece/o2.png" alt="one piece"></p>
+<p><img src="./../../data/images/onepiece/o3.png" alt="one piece"></p>
+<p><img src="./../../data/images/onepiece/o4.png" alt="one piece"></p>
+<p><img src="./../../data/images/onepiece/o5.png" alt="one piece"></p>
+<p><img src="./../../data/images/onepiece/o6.png" alt="one piece"></p>
+<p><img src="./../../data/images/onepiece/o7.png" alt="one piece"></p>
+<p><img src="./../../data/images/onepiece/o8.png" alt="one piece"></p>
+<p><img src="./../../data/images/onepiece/o9.png" alt="one piece"></p>
+<p><img src="./../../data/images/onepiece/o10.png" alt="one piece"></p>
+<h3 id="see-you-space-cowboy-">See you Space Cowboy &hellip;</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>THIS IS NOT A NEW YEAR RESOLUTION</title>
+      <link>https://prince-sharma.github.io/blog/blog/new-year-2025/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>https://prince-sharma.github.io/blog/blog/new-year-2025/</guid>
+      <description>&lt;p&gt;Liked this statergy &amp;gt; &lt;a href=&#34;https://www.youtube.com/watch?v=Zac26HFtIVo&#34;&gt;https://www.youtube.com/watch?v=Zac26HFtIVo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Made this plan &amp;gt; &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1IjEG5V54B4X1p150cCpwP8mkUGpgDaJdMKYxpeVHBGs/edit?usp=sharing&#34;&gt;https://docs.google.com/spreadsheets/d/1IjEG5V54B4X1p150cCpwP8mkUGpgDaJdMKYxpeVHBGs/edit?usp=sharing&lt;/a&gt;&#xA;(This is not public yet since it has some personal details, will make a public version at some point)&lt;/p&gt;&#xA;&lt;p&gt;Trying to follow through the plan, tracking milstones and celebrating small wins using this blog.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Liked this statergy &gt; <a href="https://www.youtube.com/watch?v=Zac26HFtIVo">https://www.youtube.com/watch?v=Zac26HFtIVo</a></p>
+<p>Made this plan &gt; <a href="https://docs.google.com/spreadsheets/d/1IjEG5V54B4X1p150cCpwP8mkUGpgDaJdMKYxpeVHBGs/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1IjEG5V54B4X1p150cCpwP8mkUGpgDaJdMKYxpeVHBGs/edit?usp=sharing</a>
+(This is not public yet since it has some personal details, will make a public version at some point)</p>
+<p>Trying to follow through the plan, tracking milstones and celebrating small wins using this blog.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>DocSumo Case Study</title>
       <link>https://prince-sharma.github.io/blog/blog/docsumo-case-study/</link>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
       <guid>https://prince-sharma.github.io/blog/blog/docsumo-case-study/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I spent time on and did an PM assignment when randomly job hunting, so have to publish it somewhere i guess. This post is the solution i submitted. You can find the problem statement here: &lt;a href=&#34;https://prince-sharma.github.io/blog/blog/docsumo-problem-statement/&#34;&gt;problem statement&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;docsumo-analysis-of-intelligent-document-processing-market-and-strategic-recommendations&#34;&gt;Docsumo: Analysis of Intelligent document processing market and strategic recommendations&lt;/h1&gt;&#xA;&lt;h2 id=&#34;market-and-competitor-analysis&#34;&gt;Market and Competitor analysis&lt;/h2&gt;&#xA;&lt;h3 id=&#34;market&#34;&gt;Market&lt;/h3&gt;&#xA;&lt;p&gt;IDP automates the handling of documents including data capture, document classification, data extraction, validation and Integration for companies who rely heavily on processing documents to make business decisions&lt;/p&gt;</description>
       <content:encoded><![CDATA[<blockquote>
@@ -702,14 +612,140 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>THIS IS NOT A NEW YEAR RESOLUTION</title>
-      <link>https://prince-sharma.github.io/blog/blog/new-year-2025/</link>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
-      <guid>https://prince-sharma.github.io/blog/blog/new-year-2025/</guid>
-      <description>&lt;p&gt;Liked this statergy &amp;gt;&lt;/p&gt;&#xA;&lt;p&gt;Made this plan &amp;gt;&lt;/p&gt;&#xA;&lt;p&gt;Trying to follow through the plan using this blog&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Liked this statergy &gt;</p>
-<p>Made this plan &gt;</p>
-<p>Trying to follow through the plan using this blog</p>
+      <title>DocSumo PM Case Study - Problem statement</title>
+      <link>https://prince-sharma.github.io/blog/blog/docsumo-problem-statement/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>https://prince-sharma.github.io/blog/blog/docsumo-problem-statement/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I spent time on and did an PM assignment when randomly job hunting, so have to publish it somewhere i guess. This post is the problem statment for a PM assignment shared by DocSumo. You can find the solution that i submitted here: &lt;a href=&#34;https://prince-sharma.github.io/blog/blog/docsumo-case-study/&#34;&gt;submitted solution&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Docsumo is a Document AI software that helps enterprises make fast &amp;amp; accurate decisions from unstructured documents.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;It helps enterprises automate key processes such as customer onboarding, income verification, claims processing by digitizing PDF files, images &amp;amp; excels docs such as bank statements, invoices, financial statements etc. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Docsumo competes with 3-decade old companies such as &lt;a href=&#34;https://www.abbyy.com/&#34;&gt;Abbyy&lt;/a&gt;, &lt;a href=&#34;https://www.kofax.com/&#34;&gt;Kofax&lt;/a&gt; and new age players such &lt;a href=&#34;https://cloud.google.com/document-ai&#34;&gt;Google Document AI&lt;/a&gt;, &lt;a href=&#34;https://instabase.com/&#34;&gt;Instabase&lt;/a&gt;, &lt;a href=&#34;https://hyperscience.com/&#34;&gt;Hyperscience&lt;/a&gt;, &lt;a href=&#34;https://hypatos.ai/&#34;&gt;Hypatos&lt;/a&gt; and &lt;a href=&#34;https://rossum.ai/&#34;&gt;Rossum&lt;/a&gt;, Ocrolus. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ol start=&#34;4&#34;&gt;&#xA;&lt;li&gt;Docsumo targets mid market ($10mn-$1bn revenue, 100+ employees) commercial lenders, financial services &amp;amp; technology companies in the USA to automate different processes. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ol start=&#34;5&#34;&gt;&#xA;&lt;li&gt;As a product manager, you will be responsible for creating the product roadmap and executing the plan. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ol start=&#34;6&#34;&gt;&#xA;&lt;li&gt;Essentially, you will be handling the entire product cycle from identifying the customer needs and the larger business objectives that a capability or feature will fulfill, articulating what success looks on the Product Requirement Document, planning epics and sprints with the engineering team to launching capabilities and getting them used by our customers. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;\&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>I spent time on and did an PM assignment when randomly job hunting, so have to publish it somewhere i guess. This post is the problem statment for a PM assignment shared by DocSumo. You can find the solution that i submitted here: <a href="https://prince-sharma.github.io/blog/blog/docsumo-case-study/">submitted solution</a></p>
+</blockquote>
+<p><strong>Background</strong></p>
+<ol>
+<li>Docsumo is a Document AI software that helps enterprises make fast &amp; accurate decisions from unstructured documents.</li>
+</ol>
+<ol start="2">
+<li>It helps enterprises automate key processes such as customer onboarding, income verification, claims processing by digitizing PDF files, images &amp; excels docs such as bank statements, invoices, financial statements etc. </li>
+</ol>
+<ol start="3">
+<li>Docsumo competes with 3-decade old companies such as <a href="https://www.abbyy.com/">Abbyy</a>, <a href="https://www.kofax.com/">Kofax</a> and new age players such <a href="https://cloud.google.com/document-ai">Google Document AI</a>, <a href="https://instabase.com/">Instabase</a>, <a href="https://hyperscience.com/">Hyperscience</a>, <a href="https://hypatos.ai/">Hypatos</a> and <a href="https://rossum.ai/">Rossum</a>, Ocrolus. </li>
+</ol>
+<ol start="4">
+<li>Docsumo targets mid market ($10mn-$1bn revenue, 100+ employees) commercial lenders, financial services &amp; technology companies in the USA to automate different processes. </li>
+</ol>
+<ol start="5">
+<li>As a product manager, you will be responsible for creating the product roadmap and executing the plan. </li>
+</ol>
+<ol start="6">
+<li>Essentially, you will be handling the entire product cycle from identifying the customer needs and the larger business objectives that a capability or feature will fulfill, articulating what success looks on the Product Requirement Document, planning epics and sprints with the engineering team to launching capabilities and getting them used by our customers. </li>
+</ol>
+<p>\</p>
+<p><strong>Problem Statement:</strong></p>
+<p>Make a presentation to the founders of Docsumo on your 30, 60, 90, and 180-day plan, focusing on the following areas:</p>
+<ol>
+<li>
+<p>Market Research &amp; Competitive Analysis</p>
+</li>
+<li>
+<p>Product Vision &amp; Roadmap (3 months, 6 months, and 12 months)</p>
+</li>
+<li>
+<p>Customer Segmentation &amp; Use Cases</p>
+</li>
+<li>
+<p>Success Metrics &amp; Adoption Strategy</p>
+</li>
+<li>
+<p>Go-to-Market Strategy for a New Capability: Integrations</p>
+</li>
+<li>
+<p>User Research &amp; Feedback Loop for new capability: Integrations</p>
+</li>
+</ol>
+<p>Your goal is to present a comprehensive strategy to drive product differentiation, adoption, and growth.</p>
+<h3 id="case-study-tasks"><strong>Case Study Tasks:</strong></h3>
+<p>Use the structure below to complete your case study submission:</p>
+<hr>
+<p><strong>1. Market Research &amp; Competitive Analysis:</strong></p>
+<ul>
+<li>
+<p><strong>Question:</strong> How would you analyze the competitive landscape for Docsumo, given the established players and new-age competitors (Abbyy, Kofax, Google Document AI, etc.)?</p>
+<ul>
+<li>
+<p>Identify the key differentiators for Docsumo.</p>
+</li>
+<li>
+<p>Propose a strategic positioning plan to capture more of the mid-market segment.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>**Context from Product Thesis:**Docsumo excels in document classification and data extraction from complex unstructured documents with a higher accuracy rate than traditional OCR tools. Additionally, Docsumo’s ability to process diverse document types at scale is a competitive advantage, especially in areas like financial services and commercial lending​</p>
+<hr>
+<p><strong>2. Product Vision &amp; Roadmap (3, 6, and 12 months):</strong></p>
+<ul>
+<li>
+<p><strong>Question:</strong> What would your 3-month, 6-month, and 12-month product vision look like?</p>
+<ul>
+<li>
+<p>Which features or capabilities would you prioritize to align with Docsumo&rsquo;s mission?</p>
+</li>
+<li>
+<p>How will you balance short-term wins with long-term product scalability?</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>**Context from Product Thesis:**Docsumo’s roadmap needs to focus on enhancing its AI models for increased accuracy and expanding integrations to become a core part of enterprise workflows. The product vision should be centered on creating a seamless customer experience, addressing current pain points like manual processes, and driving automation​.</p>
+<hr>
+<p><strong>3. Customer Segmentation &amp; Use Cases:</strong></p>
+<ul>
+<li>
+<p><strong>Question:</strong> How would you define the ideal customer profile for Docsumo?</p>
+<ul>
+<li>Which specific use cases will you prioritize (e.g., customer onboarding, claims processing) to demonstrate immediate value?</li>
+</ul>
+</li>
+</ul>
+<p>**Context from Product Thesis:**Mid-market financial services, commercial lending and B2B technology companies are a primary target, given their reliance on document-heavy processes. The use cases around automating manual data entry from bank statements, payment processing, and tax documents are key areas where Docsumo can demonstrate significant ROI</p>
+<hr>
+<p><strong>4. Success Metrics &amp; Adoption Strategy:</strong></p>
+<ul>
+<li>
+<p><strong>Question:</strong> What success metrics would you track to gauge the impact of newly launched features?</p>
+<ul>
+<li>How would you drive feature adoption among customers?</li>
+</ul>
+</li>
+</ul>
+<p>**Context from Product Thesis:**The success of new features should be measured through user engagement (e.g., feature usage, reduction in manual errors, time savings) and business outcomes (e.g., increased customer retention, decreased churn). Adoption should be driven through targeted customer education and onboarding strategies​.</p>
+<hr>
+<p><strong>5. Go-to-Market Strategy for New Integrations:</strong></p>
+<ul>
+<li>
+<p><strong>Question:</strong> How would you approach the go-to-market strategy for new integrations?</p>
+<ul>
+<li>The integrations are for Google Drive, Box, Dropbox, S3, SharePoint, and OneDrive for imports; Google Sheets and Smartsheet for exports.</li>
+</ul>
+</li>
+</ul>
+<p>**Context from Product Thesis:**Docsumo currently allows document uploads via API, email forwarding, and Zapier, but a broader strategy is needed to provide native integrations. The addition of these key integrations will streamline customer workflows, allowing them to manage the entire process within Docsumo​. Your strategy should include clear communication on the value these integrations provide and a launch plan targeting mid-market customers who rely on cloud-based document storage solutions.</p>
+<hr>
+<p><strong>6. User Research &amp; Feedback Loop for Integrations:</strong></p>
+<ul>
+<li>
+<p><strong>Question:</strong> How would you integrate user feedback into the product lifecycle, specifically for the new integrations?</p>
+<ul>
+<li>What mechanisms will you use to gather feedback and iterate on the feature post-launch?</li>
+</ul>
+</li>
+</ul>
+<p>**Context from Product Thesis:**Establishing a continuous feedback loop is crucial. You can leverage in-app surveys, interviews, and analytics to understand how customers interact with these integrations. Iteration should focus on ensuring seamless document flow from third-party storage solutions into Docsumo and vice versa​.</p>
+<hr>
+<p><strong>Resources:</strong></p>
+<ul>
+<li><strong>Product Access:</strong> Check out the product at<a href="https://app.docsumo.com/"> app.docsumo.com</a> (Use the email format: hello+pm_assignment_{{your_first_name}}@docsumo.com for signup).</li>
+</ul>
 ]]></content:encoded>
     </item>
   </channel>
