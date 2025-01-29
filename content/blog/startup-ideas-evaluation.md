@@ -1,6 +1,6 @@
 +++
 author = "Prince Sharma"
-title = "Startup Ideas Evaluation - 2 weeks"
+title = "What Should I Work On For The Next 10 Years?"
 date = "2025-01-29"
 description = "I'm gonna send time to figure out what i want to work for for the next 10 years of my life"
 tags = [
