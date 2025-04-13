@@ -26,12 +26,33 @@ It helps me track what I’ve done and where the work lives.
 
 Would love for you to check it out and let me know what you think! 🙌
 
-https://chromewebstore.google.com/detail/prioritytab/aadejinhokcmkpbcofpmoccicpmelkfa
+[Crome Webstore Link](https://chromewebstore.google.com/detail/prioritytab/aadejinhokcmkpbcofpmoccicpmelkfa)
+
+---
+
+## Table of Contents
+
+- [Screenshots](#some-screenshots-of-the-app)
+- [My process of building the todo app](#my-process-of-building-the-todo-app)
+- [How i got the idea of building this todo app](#how-i-got-the-idea-of-building-this-todo-app)
+- [Version 1 of the input i gave to cusrsor](#version-1-of-the-input-i-gave-to-cusrsor)
+- [Added some improvements](#added-some-improvements)
+- [Hyperlink support when creating new tasks](#hyperlink-support-when-creating-new-tasks)
+- [Rabbithole of implementing more features : Subtask support](#rabbithole-of-implementing-more-features--subtask-support)
+- [Ideating names, marketing content and chrome listing content with AI](#ideating-names-marketing-content-and-chrome-listing-content-with-ai)
+- [Chrome listing got rejected the first time](#chrome-listing-got-rejected-the-first-time)
+- [Some examples of ridiculous errors that i got due to AI editing the code](#some-examples-of-ridiculous-errors-that-i-got-due-to-ai-editing-the-code)
+- [purchased cursor pro and added some more improvements](#purchased-cursor-pro-and-added-some-more-improvements)
+- [How this has helped me with my office works](#how-this-has-helped-me-with-my-office-works)
+- [What's next?](#whats-next)
+
+
+---
 
 ### Some screenshots of the app
 
 Homepage
-![homepage](https://raw.githubusercontent.com/Prince-sharma/blog/main/data/images/prioritytab/homepage.png)
+![homepage](https://raw.githubusercontent.com/Prince-sharma/blog/main/data/images/prioritytab/homescreen.png)
 
 Todo Tab
 ![Todo tab](https://raw.githubusercontent.com/Prince-sharma/blog/main/data/images/prioritytab/todotab.png)
